@@ -1,7 +1,7 @@
 /*uncomment to see div layout*/
-/*div {
+/* div {
 	border: 1px solid firebrick;
-}*/
+} */
 
 body {
 	font-family: monospace;
@@ -48,4 +48,12 @@ body {
 	background-color: cornflowerblue;
 	border-radius: 10px;
 	margin-bottom: 10px;
+}
+.completed{
+	color: white;
+	height: 80px; width: 360px;
+	border: 1px solid grey;
+	background-color: pink;
+	border-radius: 10px;
+	margin-bottom: 10px;	
 }
